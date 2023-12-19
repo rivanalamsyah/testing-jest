@@ -9,7 +9,7 @@ _pastikan sudah terinstall Node js di laptop kalian!, jika belum silahkan instal
 Download file zip pada repository ini atau clone repository ini dengan cara menjalankan perintah berikut didalam terminal apabila kalian memiliki git bash
 
 ```bash
-git clone 
+git clone https://github.com/wicahma/tutorial-jest.git
 ```
 
 Jalankan perintah berikut didalam direktori file `/tutorial-jest` untuk menginstall dependency
