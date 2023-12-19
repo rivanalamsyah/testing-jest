@@ -1,0 +1,16 @@
+{
+  "name": "tutorial-jest",
+  "version": "1.0.0",
+  "description": "Tutorial untuk penggunaan jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "run": "nodemon index.js"
+  },
+  "author": "Asisten Praktikum PPMPL",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2"
+  }
+}
